@@ -1,0 +1,4 @@
+"id","name","quantity","department","manufacturer","technicalSpecifications","supermarket_id"
+"1","Metro","45","Milk","Ukraine","no","1"
+"2","Book","41","Pen","Poland","yes","3"
+"3","Atb","32","Fish","Ukraine","no","2"
